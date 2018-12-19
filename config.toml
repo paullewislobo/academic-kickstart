@@ -52,8 +52,8 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Paul Lobo"
+  role = "Graduate student at the University of Texas at Arlington"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -63,8 +63,8 @@ enableGitInfo = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  email = "paul.lobo@mavs.uta.edu"
+  address = ""
   office_hours = """
   Monday 10:00 to 13:00\\
   Wednesday 09:00 to 10:00\\
