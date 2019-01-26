@@ -28,7 +28,7 @@ categories = []
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
-+++
+
 
 # 10K Pre processing
 
@@ -52,3 +52,6 @@ categories = []
 
 - Generates a word2vec model that is trained on the entire 10K dataset. Using it we can generate similar phrases from the initial seed phrases
   used in the IMP_PHRASE report.
+
+
++++
